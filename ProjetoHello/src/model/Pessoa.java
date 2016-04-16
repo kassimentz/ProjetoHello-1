@@ -5,6 +5,7 @@ package model;
  * @author lhries
  */
 public class Pessoa {
+    //Atributo nome
     private String nome;
     private Endereco endereco;
 
