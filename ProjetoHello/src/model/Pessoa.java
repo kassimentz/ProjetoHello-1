@@ -7,6 +7,7 @@ package model;
 public class Pessoa {
     //Atributo nome
     private String nome;
+    //Atributo endereco
     private Endereco endereco;
 
     public Pessoa() {
